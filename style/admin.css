@@ -1,0 +1,242 @@
+.admin-btns-main{
+	margin-top: 25px;
+	font-size: 15px;
+}
+.admin-btns-main a{
+	font-size: 15px;
+	width: 90%;
+	display: block;
+	margin: 10px auto;
+	text-align: center;
+}
+a.btn-blue, .btn-blue{
+	background: #404859;
+}
+.thumb-desc-conatainer .btn-more {
+   padding: 7px 34px;
+}
+.edit-about-me{
+	position: absolute;
+	top: 30px;
+	right: 0;
+	font-size: 18px;
+	padding: 7px 30px;
+}
+.edit-contact{
+	position: absolute;
+	top: 10px;
+	right: 0;
+	font-size: 18px;
+	padding: 7px 30px;
+	font-weight: normal !important;
+	z-index: 2;
+}
+.item{
+	position: relative;
+}
+.delete-img{
+	position: absolute;
+	top: 10px;
+	right: 25px;
+	width: auto;
+	cursor: pointer;
+	z-index: 2;
+}
+.admin-btns-news-in-main{
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	z-index: 2;
+}
+.in-main .set-main, .not-in-main .del-main{
+	display: none;
+}
+.not-in-main .set-main, .in-main .del-main{
+	display: block
+}
+.add-img{
+	width: auto;
+}
+.add-item .btn-more{
+	font-size: 14px !important;
+	margin-left: 7px;
+}
+.admin-btns-docs{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	z-index: 2;
+}
+.admin-btns-docs .btn-more{
+	margin-top: 5px;
+	font-size: 11px;
+	padding: 5px;
+}
+.gallery-item .delete-img{
+	right: 10px;
+}
+.admin-media .delete-img{
+	top: 15px;
+}
+.admin-media .download-btn{
+	right: 50px;
+}
+.add-news-form input[type="text"]{
+	width: 100%;
+	background: #f7f7f7;    
+	border: 1px solid;
+}
+.add-news-form #con-text{
+	width: 100%;
+	height: 350px;
+	background: #f7f7f7;    
+	border: 1px solid;
+}
+.add-news-form .article-gallery{
+	margin: 20px -15px;
+}
+.add-news-form .article-lead textarea{
+	width: 100%;
+	height: 80px;
+	resize: none;
+	background: #f7f7f7;    
+	border: 1px solid;
+}
+.add-news-form #saveNews{
+	border: 0;
+	font-size: 15px;
+	padding: 7px 20px;
+}
+.add-news-form .edit-img{
+	position: absolute;
+	bottom: 2px;
+	left: 17px;
+	border: 0px none;
+}
+.add-news-form #add-new-img-btn{
+	cursor: pointer;
+	border: 0;
+	font-size: 15px;
+}
+.admin-modal-form form{
+	text-align: center;
+}
+.btn-more{
+	border: 0;
+}
+#loadImg, #addNewImg, .admin-modal-form button[type="submit"]{
+	font-size: 13px;
+	margin: 10px;
+}
+.admin-modal-form input[type="file"]{
+	display: none;
+}
+.admin-modal-form input[type="text"]{
+	width: 80%;
+	font-size: 12px;
+	color: black;
+	display: block;
+	margin: 15px auto;
+}
+#preview-add img{
+	max-width: 100%;
+}
+.modal-content{
+	background: #404859 !important;
+	text-align: center;
+}
+.admin-modal-form .modal-content{
+    width: 60%;
+    margin: auto;
+}
+.admin-modal-form textarea{
+    width: 80%;
+    margin: auto;
+	resize: none;
+	color: black;
+}
+#editAbout .modal-dialog{
+	width: 750px;
+}
+#editAbout .modal-content{
+	width: 100%;
+}
+#editAbout textarea{
+	height: 350px;
+}
+#preview-edit img{
+	width: 100%;
+}
+.edit-g-btn{
+	width: 100%;
+	display: block;
+	background: #bf2624; 
+}
+#usefull-links .delete-img{
+	height: 10px;
+	top: 2px;
+	right: -5px;
+}
+#usefull-links a{
+	position: relative;
+	width: 90%;
+}
+#usefull-links .add-item{
+	margin: 5px 15px;
+}
+#usefull-links .add-item a{
+	display: inline;
+	font-size: 9px !important;
+	padding: 3px 11px;
+}
+#usefull-links .add-img{
+	height: 20px;
+}
+#usefull-links .edit-link-btn{
+	display: inline;
+	width: auto;
+	position: absolute;
+	top: 0px;
+	right: 20px;
+	padding: 1px 10px;
+	font-size: 9px;
+}
+.footer-links{
+	position: relative;
+	margin-top: 5px;
+}
+.main-change-img {
+	position: absolute;
+	left: 15px;
+	top: 0;
+	font-size: 10px;
+	padding: 5px;
+}
+.is-main-1{
+	display: none;
+}
+#confirmModal img, #confirmModalComment img{
+	height: 40px;
+	margin: 10px 40px;
+	cursor: pointer;
+}
+.edit-blog-page h1{
+	font-weight: bold;
+}
+.edit-blog-page h1 input{
+	width: 100%;
+}
+.edit-blog-page textarea{
+	min-height: 300px;
+}
+.edit-blog-page .blog-date input{
+    width: 130px;
+}
+.edit-blog-page input{
+    background: none;
+	border: 1px solid black;
+	padding: 5px;
+}
+.edit-blog-page input.error{
+	border: 1px solid red;
+}

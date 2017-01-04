@@ -1,0 +1,25 @@
+- dodawanie/edycja blog-newsa
+- lista wpisów
+- podstrona wpisu
+- zmiana głownego koloru
+- przy id-kach trzeba zrobić jakieś parseINT - sql Injection
+- walidacja js na dodawaniu
+- usuwanie wpisu
+- wczytaj więcej wpisów
+- usuwanie i wczytywanie komenatrzy
+- walidacja dodawania komenatrz (js i php)
+- cap w komenatrzach
+- sortowanie komenatrzy 
+- dodawnie komentarzy
+- ajaxowe sprawdzanie captacha
+- ładna data w komenatrzach
+- ostatnie posty
+- archiwum (lista wpisów tylko z danego miesiąca)
+- wyszukiwarka
+- podstrona wyszukiwania
+- dodawanie komenatrza mysql injection!!!
+
+- dodanie ikony "filmu" do artykułów z filmikami (wyszukać w treści słów yt/lub iframe )
+- zmienić metodę urlToBlog !!! 
+- podmienić zdjęcie na "o_mnie"
+- wyszukać czy nie ma gdzieś jeszcze "jan mosiński"
